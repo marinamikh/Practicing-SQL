@@ -1,5 +1,5 @@
 Hello!
 
-Here is SQL project where I was practicing pulling up data from the database. 
+Here is SQL project where I was practicing pulling up data from the database, using various SQL functions. 
 
 https://docs.google.com/spreadsheets/d/1tKdvbmcKPbz7ml5QG9JnF3SPpL_3Fn-7YXaNlkLlNNw/edit?usp=sharing
